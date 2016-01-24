@@ -1,0 +1,117 @@
+2016/01/24 09:45:56 INFO  - jmeter.util.JMeterUtils: Setting Locale to pl_PL 
+2016/01/24 09:45:56 INFO  - jmeter.util.JMeterUtils: Could not find resources for 'pl_PL', using 'pl' 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: Loading user properties from: D:\Lab6ORWtestapki\jmeter\apache-jmeter-2.13\bin\user.properties 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: Loading system properties from: D:\Lab6ORWtestapki\jmeter\apache-jmeter-2.13\bin\system.properties 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: Copyright (c) 1998-2015 The Apache Software Foundation 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: Version 2.13 r1665067 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: java.version=1.8.0_71 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) Client VM 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: os.name=Windows 8.1 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: os.arch=x86 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: os.version=6.3 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: file.encoding=Cp1250 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: Default Locale=polski (Polska) 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: JMeter  Locale=polski (Polska) 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: JMeterHome=D:\Lab6ORWtestapki\jmeter\apache-jmeter-2.13 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: user.dir  =D:\Lab6ORWtestapki\jmeter\apache-jmeter-2.13\bin 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: PWD       =D:\Lab6ORWtestapki\jmeter\apache-jmeter-2.13\bin 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: IP: 192.168.0.10 Name: Kamil FullName: Kamil 
+2016/01/24 09:45:56 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform] 
+2016/01/24 09:45:56 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2016/01/24 09:45:57 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2016/01/24 09:45:57 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2016/01/24 09:45:59 INFO  - jmeter.util.BSFTestElement: Registering JMeter version of JavaScript engine as work-round for BSF-22 
+2016/01/24 09:45:59 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2016/01/24 09:45:59 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2016/01/24 09:45:59 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2016/01/24 09:45:59 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2016/01/24 09:45:59 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2016/01/24 09:45:59 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2016/01/24 09:45:59 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.control.gui.WebServiceSamplerGui 
+2016/01/24 09:45:59 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.modifier.gui.ParamModifierGui 
+2016/01/24 09:45:59 INFO  - jorphan.exec.KeyToolUtils: keytool found at 'C:\Program Files (x86)\Java\jre1.8.0_71\bin\keytool' 
+2016/01/24 09:45:59 INFO  - jmeter.protocol.http.proxy.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file D:\Lab6ORWtestapki\jmeter\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/24 09:46:00 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2016/01/24 09:46:00 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2016/01/24 09:46:00 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2016/01/24 09:46:00 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2016/01/24 09:48:38 INFO  - jmeter.util.JMeterUtils: Setting Locale to en 
+2016/01/24 09:50:41 INFO  - jmeter.protocol.http.proxy.ProxyControl: Creating Proxy CA in D:\Lab6ORWtestapki\jmeter\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/24 09:50:47 INFO  - jmeter.protocol.http.proxy.ProxyControl: Created keystore in D:\Lab6ORWtestapki\jmeter\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/24 09:50:47 INFO  - jmeter.protocol.http.proxy.Daemon: Creating Daemon Socket on port: 8080 
+2016/01/24 09:50:47 INFO  - jmeter.protocol.http.proxy.Daemon: Test Script Recorder up and running! 
+2016/01/24 09:51:43 INFO  - jmeter.engine.StandardJMeterEngine: Listeners will be started after enabling running version 
+2016/01/24 09:51:43 INFO  - jmeter.engine.StandardJMeterEngine: To revert to the earlier behaviour, define jmeterengine.startlistenerslater=false 
+2016/01/24 09:51:43 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/01/24 09:51:43 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/01/24 09:51:43 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/01/24 09:51:43 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2016/01/24 09:51:43 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Grupa w¹tków 
+2016/01/24 09:51:43 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Grupa w¹tków. 
+2016/01/24 09:51:43 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/01/24 09:51:43 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2016/01/24 09:51:43 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2016/01/24 09:51:43 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2016/01/24 09:51:43 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2016/01/24 09:51:43 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2016/01/24 09:51:43 INFO  - jmeter.threads.JMeterThread: Thread started: Grupa w¹tków 1-1 
+2016/01/24 09:51:43 INFO  - jmeter.threads.JMeterThread: Thread is done: Grupa w¹tków 1-1 
+2016/01/24 09:51:43 INFO  - jmeter.threads.JMeterThread: Thread finished: Grupa w¹tków 1-1 
+2016/01/24 09:51:43 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/01/24 09:51:43 INFO  - jmeter.services.FileServer: Default base='D:\Lab6ORWtestapki\jmeter\apache-jmeter-2.13\bin' 
+2016/01/24 09:51:43 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
+2016/01/24 09:57:12 INFO  - jmeter.protocol.http.proxy.Proxy: Proxy will remove the headers: If-Modified-Since,If-None-Match,Host 
+2016/01/24 09:57:12 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = Kamil 
+2016/01/24 09:57:12 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 0 
+2016/01/24 09:57:12 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: Setting up HTTPS TrustAll scheme 
+2016/01/24 09:57:12 INFO  - jmeter.util.JsseSSLManager: Using default SSL protocol: TLS 
+2016/01/24 09:57:12 INFO  - jmeter.util.JsseSSLManager: SSL session context: per-thread 
+2016/01/24 09:57:12 INFO  - jmeter.protocol.http.proxy.FormCharSetFinder: Using htmlparser version: 2.0 (Release Build Sep 17, 2006) 
+2016/01/24 09:57:13 INFO  - jmeter.protocol.http.proxy.ProxyControl: [10063] Creating entry platform.twitter.com in D:\Lab6ORWtestapki\jmeter\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/24 09:57:19 INFO  - jmeter.protocol.http.proxy.ProxyControl: [10064] Creating entry www.apache.org in D:\Lab6ORWtestapki\jmeter\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/24 09:57:19 INFO  - jmeter.protocol.http.proxy.Proxy: [10063] KeyStore for SSL loaded OK and put host 'platform.twitter.com' in map with key (platform.twitter.com) 
+2016/01/24 09:57:20 WARN  - jmeter.protocol.http.proxy.Proxy: [10063] Problem with SSL certificate for 'platform.twitter.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/24 09:57:22 WARN  - jmeter.protocol.http.proxy.Proxy: [10073] Problem with SSL certificate for 'platform.twitter.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/24 09:57:24 INFO  - jmeter.protocol.http.proxy.Proxy: [10064] KeyStore for SSL loaded OK and put host 'www.apache.org' in map with key (www.apache.org) 
+2016/01/24 09:57:24 WARN  - jmeter.protocol.http.proxy.Proxy: [10072] Problem with SSL certificate for 'www.apache.org'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/24 09:57:24 WARN  - jmeter.protocol.http.proxy.Proxy: [10064] Problem with SSL certificate for 'www.apache.org'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/24 09:57:26 WARN  - jmeter.protocol.http.proxy.Proxy: [10086] Problem with SSL certificate for 'platform.twitter.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/24 09:57:26 WARN  - jmeter.protocol.http.proxy.Proxy: [10087] Problem with SSL certificate for 'www.apache.org'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/24 09:57:32 WARN  - jmeter.protocol.http.proxy.Proxy: [10090] Problem with SSL certificate for 'platform.twitter.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/24 09:57:32 WARN  - jmeter.protocol.http.proxy.Proxy: [10091] Problem with SSL certificate for 'www.apache.org'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/24 09:57:36 WARN  - jmeter.protocol.http.proxy.Proxy: [10096] Problem with SSL certificate for 'platform.twitter.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/24 09:57:36 WARN  - jmeter.protocol.http.proxy.Proxy: [10097] Problem with SSL certificate for 'www.apache.org'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/24 10:00:50 INFO  - jmeter.services.FileServer: Set new base='D:\Lab6ORWtestapki' 
+2016/01/24 10:00:50 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2016/01/24 10:00:50 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2016/01/24 10:00:50 INFO  - jmeter.save.SaveService: Using SaveService properties file version 1656252 
+2016/01/24 10:00:50 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.8 
+2016/01/24 10:00:50 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2016/01/24 10:01:02 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/01/24 10:01:02 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/01/24 10:01:02 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2016/01/24 10:01:02 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Grupa w¹tków 
+2016/01/24 10:01:02 INFO  - jmeter.engine.StandardJMeterEngine: Starting 5 threads for group Grupa w¹tków. 
+2016/01/24 10:01:02 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/01/24 10:01:02 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 5 ramp-up 1 perThread 200.0 delayedStart=false 
+2016/01/24 10:01:02 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2016/01/24 10:01:02 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2016/01/24 10:01:02 INFO  - jmeter.threads.JMeterThread: Thread started: Grupa w¹tków 1-1 
+2016/01/24 10:01:03 INFO  - jmeter.threads.JMeterThread: Thread started: Grupa w¹tków 1-2 
+2016/01/24 10:01:03 INFO  - jmeter.threads.JMeterThread: Thread started: Grupa w¹tków 1-3 
+2016/01/24 10:01:03 INFO  - jmeter.threads.JMeterThread: Thread started: Grupa w¹tków 1-4 
+2016/01/24 10:01:03 INFO  - jmeter.threads.JMeterThread: Thread started: Grupa w¹tków 1-5 
+2016/01/24 10:03:48 INFO  - jmeter.threads.JMeterThread: Thread is done: Grupa w¹tków 1-1 
+2016/01/24 10:03:48 INFO  - jmeter.threads.JMeterThread: Thread finished: Grupa w¹tków 1-1 
+2016/01/24 10:03:48 INFO  - jmeter.threads.JMeterThread: Thread is done: Grupa w¹tków 1-3 
+2016/01/24 10:03:48 INFO  - jmeter.threads.JMeterThread: Thread finished: Grupa w¹tków 1-3 
+2016/01/24 10:03:48 INFO  - jmeter.threads.JMeterThread: Thread is done: Grupa w¹tków 1-2 
+2016/01/24 10:03:48 INFO  - jmeter.threads.JMeterThread: Thread finished: Grupa w¹tków 1-2 
+2016/01/24 10:03:49 INFO  - jmeter.threads.JMeterThread: Thread is done: Grupa w¹tków 1-5 
+2016/01/24 10:03:49 INFO  - jmeter.threads.JMeterThread: Thread finished: Grupa w¹tków 1-5 
+2016/01/24 10:03:49 INFO  - jmeter.threads.JMeterThread: Thread is done: Grupa w¹tków 1-4 
+2016/01/24 10:03:49 INFO  - jmeter.threads.JMeterThread: Thread finished: Grupa w¹tków 1-4 
+2016/01/24 10:03:49 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/01/24 10:03:49 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
+2016/01/24 10:10:59 INFO  - jmeter.reporters.ResultCollector: Shutdown hook started 
+2016/01/24 10:10:59 INFO  - jmeter.reporters.ResultCollector: Shutdown hook ended 
